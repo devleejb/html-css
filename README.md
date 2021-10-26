@@ -19,3 +19,4 @@
 ### CSS
 
 - CSS [Notion](https://distinct-bulb-c95.notion.site/CSS-c3baa3c3c40242a9922b76707939cc4e)
+- Selector [Notion](https://distinct-bulb-c95.notion.site/Selector-98c833f03e974bb9a90308cd1c8cb95a)
