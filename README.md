@@ -13,6 +13,6 @@
 - img Tag [소스 코드](HTML/img.html)
 - Attribute [소스 코드](HTML/attribute.html)
 - List [소스 코드](HTML/list.html)
-- Table [소스 코드](HTML/table.html)
+- HTML Structure [Notion](https://distinct-bulb-c95.notion.site/HTML-c012198e101140128875415ebafc6fa4) / [소스 코드](HTML/html_structure.html)
 
 ### CSS
