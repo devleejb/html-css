@@ -21,3 +21,4 @@
 - CSS [Notion](https://distinct-bulb-c95.notion.site/CSS-c3baa3c3c40242a9922b76707939cc4e)
 - Selector [Notion](https://distinct-bulb-c95.notion.site/Selector-98c833f03e974bb9a90308cd1c8cb95a)
 - Box Model [Notion](https://distinct-bulb-c95.notion.site/Box-Model-8b9718ed9e7f48a19af521ea2b266ef4)
+- Grid Layout [Notion](https://distinct-bulb-c95.notion.site/Grid-Layout-72ca3239390f457fa8fa28fb01e9aa06) / [소스 코드](CSS/grid_layout.html)
